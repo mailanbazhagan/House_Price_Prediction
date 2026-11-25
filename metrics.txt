@@ -1,0 +1,4 @@
+Test-set metrics
+MAE: 3.205 lakh
+RMSE: 4.260 lakh
+R2: 0.985
